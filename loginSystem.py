@@ -1,4 +1,3 @@
-
 database = {}
 user_name = 'Username '
 #checks if username is in dattabase
